@@ -2,7 +2,8 @@ GEA Understanding Eukaryotic Genes Prototype
 ===============================================
 
 This repository contains an example of converting existing bioinformatics
-curriculum materials into the Read the Docs format.
+curriculum materials into the 
+[Read the Docs](https://gea-ueg-prototype.readthedocs.io/en/latest/) format.
 
 
 The UCSC Assembly Hub for the Understanding Eukaryotic Genes modules are 
